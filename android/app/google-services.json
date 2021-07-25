@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726663068944",
+    "project_id": "liquo-6b549",
+    "storage_bucket": "liquo-6b549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726663068944:android:1b7f8584ec8675ec4ff995",
+        "android_client_info": {
+          "package_name": "com.example.liquo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726663068944-pn7rui6mps5r7tuiurir98ac6gvb410i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOczzAbHiARVOo3Vufm6hMbO5VFFOw7cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726663068944-pn7rui6mps5r7tuiurir98ac6gvb410i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
